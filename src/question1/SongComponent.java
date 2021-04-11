@@ -1,5 +1,5 @@
 package question1;
-
+/*
 public abstract class SongComponent {
     int size;
     public void add(SongComponent newSongComponent) {
@@ -33,3 +33,4 @@ public abstract class SongComponent {
     }
 
 }
+*/
